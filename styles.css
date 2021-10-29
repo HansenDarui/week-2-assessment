@@ -36,3 +36,18 @@ input {
 img {
 	max-width: 300px;
 }
+
+.Dont {
+	font-size: xx-large;
+	color: gold;
+}
+
+.Big {
+	font-size: xx-large;
+	color: yellowgreen;
+}
+
+.Crazy {
+	font-size: xx-large;
+	color: goldenrod;
+}
